@@ -24,8 +24,9 @@ In order to experiment with different sample sizes, either change the value of k
 
 ## Output
 Running the script should produce two graphs:
-    - "german_tank_estimator_vs_baseline.png" - the estimator vs the maximum-only method, showing the estimator centres on the true N while the maximum-only method systematically underestimates.
 
-    - "german_tank_sample_size.png" - how a larger sample size tightens the spread of estimates around N.
+ - "german_tank_estimator_vs_baseline.png" - the estimator vs the maximum-only method, showing the estimator centres on the true N while the maximum-only method systematically underestimates.
+
+- "german_tank_sample_size.png" - how a larger sample size tightens the spread of estimates around N.
 
 That's it, enjoy !
