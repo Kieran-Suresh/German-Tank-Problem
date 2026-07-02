@@ -3,6 +3,9 @@
 ## Introduction
 This is a program that runs a simulation to demonstrate the unbiased nature of N-hat.
 
+## Article
+This project accompanies my article on the German Tank Problem, published in *Chalkdust*. (Link to be added once published.)
+
 ## The Purpose and Functions
 A true population size is set and a sample size is chosen(20 and 50 are the pre-existing sample sizes). Then, a simulation is run whereby samples are collected over a large number of iterations (e.g 10000) and two lists are created. 
 
